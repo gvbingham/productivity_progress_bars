@@ -1,0 +1,22 @@
+{
+  "name": "productivity_progress_bars",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha t/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvbingham/productivity_progress_bars.git"
+  },
+  "keywords": [
+    "TBD"
+  ],
+  "author": "Sh1roTaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvbingham/productivity_progress_bars/issues"
+  },
+  "homepage": "https://github.com/gvbingham/productivity_progress_bars#readme"
+}
